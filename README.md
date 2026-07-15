@@ -370,9 +370,9 @@ This project demonstrates practical experience in:
 
 ## 👨‍💻 Author
 
-**Shathuu Vichu**
+**Shatheswar**
 
-Undergraduate – Software Engineering
+Undergraduate – Computer Science
 
 **Project:** Yala 360 Safari Management System
 
