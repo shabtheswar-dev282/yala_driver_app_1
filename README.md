@@ -382,4 +382,4 @@ Undergraduate – Computer Science
 
 ## 📄 License
 
-This project was developed for academic purposes as part of the Software Engineering undergraduate curriculum.
+This project was developed for academic purposes as part of the Computer Science undergraduate curriculum.
