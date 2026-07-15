@@ -314,7 +314,7 @@ flutter build appbundle --release
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yala360-driver-app.git
+git clone https://github.com/shabtheswar-dev282/yala360-driver-app.git
 ```
 
 Go into the project
